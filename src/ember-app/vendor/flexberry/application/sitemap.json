@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Dokumentooborot6",
+  "applicationTitle": "Dokumentooborot6",
+  "items": [
+    {
+      "link": null,
+      "menuName": "dokumentooborot6",
+      "caption": "Dokumentooborot6",
+      "title": "Dokumentooborot6",
+      "children": [
+        {
+          "link": "i-i-s-dokumentooborot6-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot6-вход-в-систему-l",
+          "menuName": null,
+          "caption": "Вход в систему",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot6-форма-документа-l",
+          "menuName": null,
+          "caption": "Форма документа",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot6-ав-пользователи-l",
+          "menuName": null,
+          "caption": "Ав пользователи",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot6-документ-не-ут-l",
+          "menuName": null,
+          "caption": "Документ не ут",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot6-утверждение-док-l",
+          "menuName": null,
+          "caption": "Утверждение док",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot6-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

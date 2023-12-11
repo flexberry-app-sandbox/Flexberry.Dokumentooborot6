@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dokumentooborot6-документ-не-ут-e",
+  "editForm": "i-i-s-dokumentooborot6-документ-не-ут-e",
+  "external": false,
+  "caption": "Документ не ут",
+  "name": "IISDokumentooborot6ДокументНеУтL",
+  "className": "ДокументНеУтL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot6-документ-не-ут",
+      "modelProjection": "ДокументНеУтL"
+    }
+  ]
+}

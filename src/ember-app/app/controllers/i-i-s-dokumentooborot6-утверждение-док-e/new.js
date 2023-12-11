@@ -1,0 +1,4 @@
+import IISDokumentooborot6УтверждениеДокEController from '../i-i-s-dokumentooborot6-утверждение-док-e';
+
+var IISDokumentooborot6УтверждениеДокENewController = IISDokumentooborot6УтверждениеДокEController;
+export default IISDokumentooborot6УтверждениеДокENewController;
